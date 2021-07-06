@@ -1,0 +1,3 @@
+C:/Users/canal/CLionProjects/API_Project/cmake-build-win_profile/CMakeFiles/rebuild_cache.dir
+C:/Users/canal/CLionProjects/API_Project/cmake-build-win_profile/CMakeFiles/API_Project.dir
+C:/Users/canal/CLionProjects/API_Project/cmake-build-win_profile/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc  -DEVAL -std=gnu11 -pipe -static -lm -g   CMakeFiles/API_Project.dir/main.c.o  -o API_Project 
